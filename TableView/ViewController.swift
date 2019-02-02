@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    
+     
     @IBOutlet var tableView: UITableView!
     var names: [String] = ["Prasad", "DNREDDi", "Manohar", "Ramu", "Raju", "Naveen", "Nanda", "Prasad", "DNREDDi", "Manohar", "Ramu", "Raju", "Naveen", "Nanda", "Prasad", "DNREDDi", "Manohar", "Ramu", "Raju", "Naveen", "Nanda", "Prasad", "DNREDDi", "Manohar", "Ramu", "Raju", "Naveen", "Nanda", "Prasad", "DNREDDi", "Manohar", "Ramu", "Raju", "Naveen", "Nanda", "Prasad", "DNREDDi", "Manohar", "Ramu", "Raju", "Naveen", "Nanda", "Prasad", "DNREDDi", "Manohar", "Ramu", "Raju", "Naveen", "Nanda", "Prasad", "DNREDDi", "Manohar", "Ramu", "Raju", "Naveen", "Nanda", "Prasad", "DNREDDi", "Manohar", "Ramu", "Raju", "Naveen", "Nanda", "Prasad", "DNREDDi", "Manohar", "Ramu", "Raju", "Naveen", "Nanda", "Prasad", "DNREDDi", "Manohar", "Ramu", "Raju", "Naveen", "Nanda", "Prasad", "DNREDDi", "Manohar", "Ramu", "Raju", "Naveen", "Nanda", "Prasad", "DNREDDi", "Manohar", "Ramu", "Raju", "Naveen", "Nanda", "Prasad", "DNREDDi", "Manohar", "Ramu", "Raju", "Naveen", "Nanda"]
     
